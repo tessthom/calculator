@@ -1,3 +1,7 @@
+# Calculator App
+
+This project was built to practice introductory React concepts. I added a button beneath the standard calculator to practice working with props and state beyond the tutorial's instruction, and to make repeated commits to a deployed app. The button toggles a Pride theme.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
