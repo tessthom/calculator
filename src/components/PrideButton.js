@@ -32,8 +32,8 @@ function PrideButton() {
       clearBtn.style.backgroundImage = `url(${redGlitter})`;
       // gray glitter for pride button
       prideBtn.style.backgroundImage = `url(${grayGlitter})`;
-      // change text of button to 'Bye Hunny'
-      prideBtn.innerHTML = 'Bye Hunny &#x1F44B;';
+      // change text of button to 'Back to Basics'
+      prideBtn.innerHTML = 'Back to Basics &#x1F44B;';
     } else {
       // reset buttons, wrapper, clearBtn, prideBtn back to original styles
       document.body.style.background = '';
